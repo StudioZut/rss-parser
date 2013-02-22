@@ -1,4 +1,4 @@
 rss-parser
 ==========
 
-Drupal Module: simple rss parser (thinking Twitter here)
+Drupal module: simple rss parser class

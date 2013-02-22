@@ -1,0 +1,3 @@
+name = RSS Parser
+description = This is a simple parser for RSS (thinking Twitter here). It creates the class RssParser that can be called in nodes/blocks. The class generates a cached file that gets refreshed if it's older than 60 seconds. 
+core = 7.x
