@@ -1,3 +1,5 @@
 name = RSS Parser
 description = This is a simple parser for RSS (thinking Twitter here). It creates the class RssParser that can be called in nodes/blocks. The class generates a cached file that gets refreshed if it's older than 60 seconds. 
-core = 7.x
+version = "7.x-1.0"
+core = "7.x"
+package = GW Libraries
